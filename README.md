@@ -82,23 +82,11 @@ While we don't expect everyone to complete this part of the exercise, it will fo
 We'd love to hear about
 
 - How you would go about implementing the solution
-
-* Modifying the chat messge model schema to include an optional tags property.
-* Update create message function to allow the creation of tags
-* create updateTags and findMessagesByTags functions
-
 - What problems you might encounter
-
-* In some places there may be type errors due to the type of the message object changing
-
 - How you would go about testing
-
-* Add new unit tests for new functions
-* Update tests on existing functions, for example: "create" tests instead of just having "successfully creates a message" test, could have "successfully creates a message with tags" and "successfully creates a message without tags" tests
-
 - What you might do differently
 
-* I wouldnt do anything differently
+Answers to these questions are in the notes file!
 
 # Additional
 
